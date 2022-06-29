@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.companies {
+  display: flex;
+  justify-content: space-around;
+}
+
+.home {
+  text-align: center;
+}
+
+.student {
+  border: 1px solid white;
+  width: 300px;
+  text-align: center;
+}
+
+.student img {
+  width: 200px;
+}
+
+.students{
+  display: flex;
+  justify-content: space-around;
+}
+
+h1 {
+  color: #fee975;
+}
+
+img {
+  width: 400px;
+}
+
+a {
+  color: #0080ff;
+}
+
+a:hover {
+  color: #17d3ff;
+}
